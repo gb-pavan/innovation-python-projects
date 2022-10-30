@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@400;600&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main-container{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    list-style-type: none;
+}
+
+.box-style{
+   background-color: transparent;
+}
+
+.pic-height{
+    height: 83%;
+}
+
+.box-style:hover{
+    background-color: #606369;
+    border-radius: 10px;
+}
+
+
